@@ -1,3 +1,7 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "prettier.disableLanguages": [
+        "vue"
+    ],
+    "editor.formatOnSave": true
 }
